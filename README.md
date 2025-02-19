@@ -1,7 +1,6 @@
 # fardows.jan<h1 align="center">Hi 👋, I'm Fardows.yusofi</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="250px" hight="250px" alt="fardows yusofi"
-  align="right">
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="250px" height="250px" alt="fardoes yusofi" align="left">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardowsjan&label=Profile%20views&color=0e75b6&style=flat" alt="fardowsjan" /> </p>
 
